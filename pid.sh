@@ -1,7 +1,7 @@
 ##====================================================================##
 ##                                                                    ##
 ## SOFTWARE: PID - Post Installation Debian.                          ##
-## AUTHOR: Charles Dantas (chameleon)                                 ##
+## AUTHOR: Charles Dantas (ccod)                                 ##
 ## VERSION: 1.0                                                       ##
 ## CREATION DATE: 06/06/2022                                          ##
 ## Last release 20/06/2022                                            ##
